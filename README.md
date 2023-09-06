@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesuzaine5
-- 👀 I’m interested in programming,SAP, AWS, Testing and Machine Learning
-- 🌱 I’m currently learning a vast info about information tectnology
+- 👀 I’m interested in Programming,SAP, AWS, Testing and Machine Learning
+- 🌱 I’m currently learning a vast info about information technology
 - 💞️ I’m looking to collaborate on experienced developers with the same likes as well
 - 📫 How to reach me- selfless.16.jen@gmail.com
 
