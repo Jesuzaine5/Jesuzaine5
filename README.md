@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming,SAP, AWS, Testing and Machine Learning
 - 🌱 I’m currently learning a vast info about information technology
 - 💞️ I’m looking to collaborate on experienced developers with the same likes as well
-- 📫 How to reach me- selfless.16.jen@gmail.com
+- 📫 How to reach me- jesuzaine7@gmail.com
 
 <!---
 Jesuzaine5/Jesuzaine5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
